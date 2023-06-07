@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koga444 and I'm SDET.
+- 👋 Hi, I’m @dzhokk and I'm SDET.
 - 👀 I’m interested in work experience with some popular test system.
 - 🌱 I’m currently learning Java, Python and test frameworks.
 - 📫 How to reach me: dzh_career@outlook.com
